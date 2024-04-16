@@ -9,3 +9,9 @@
 - in dwj's charge
 - aimed at developing a system to activate with users connected by LLM model powered of **knowlegde enhancement**
 - based on [**streamlit**](https://docs.streamlit.io/)
+
+## version 1.0.0
+
+![询问中](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721871.jpg)
+
+![响应结果](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721507.jpg)
