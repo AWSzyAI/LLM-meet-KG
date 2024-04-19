@@ -3,8 +3,6 @@
 # @Author : Mr_Dwj
 # @link   : https://github.com/iflytek/spark-ai-python
 
-import os
-
 from sparkai.llm.llm import ChatSparkLLM, ChunkPrintHandler
 from sparkai.core.messages import ChatMessage
 try:
@@ -18,7 +16,6 @@ configInfo = _config.ConfigInfo()
 load_dotenv()
 
 if __name__ == '__main__':
-    from sparkai.core.callbacks import StdOutCallbackHandler
     spark = ChatSparkLLM(
         spark_app_id=configInfo.appid,
         spark_api_key=configInfo.api_key,
