@@ -10,8 +10,8 @@
 - aimed at developing a system to activate with users connected by LLM model powered of **knowlegde enhancement**
 - based on [**streamlit**](https://docs.streamlit.io/)
 
-## version 1.0.0
+## 1.0
 
-![询问中](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721871.jpg)
+<img src="https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721871.jpg" alt="询问中" />
 
-![响应结果](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721507.jpg)
+<img src="https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721507.jpg" alt="响应结果" />
