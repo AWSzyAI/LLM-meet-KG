@@ -1,0 +1,2 @@
+streamlit==1.38.0
+websocket==0.2.1
