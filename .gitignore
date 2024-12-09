@@ -8,3 +8,5 @@
 
 # Others
 /_config.py
+
+/llm_meet_kg_app/__pycache__
