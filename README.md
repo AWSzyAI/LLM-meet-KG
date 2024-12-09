@@ -4,6 +4,14 @@
 
 ## [进度管理](https://awszyai.github.io/projects/LLM-meet-KG/LLM-meet-KG.html)
 
+## system branch
 
+- in dwj's charge
+- aimed at developing a system to activate with users connected by LLM model powered of **knowlegde enhancement**
+- based on [**streamlit**](https://docs.streamlit.io/)
 
+## 1.0
 
+<img src="https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721871.jpg" alt="询问中" />
+
+<img src="https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721507.jpg" alt="响应结果" />

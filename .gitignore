@@ -1,0 +1,10 @@
+# Env
+/.idea
+.DS_Store
+
+# Python
+/.venv
+/__pycache__
+
+# Others
+/_config.py
