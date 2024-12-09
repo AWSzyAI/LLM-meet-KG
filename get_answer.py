@@ -1,9 +1,9 @@
 import os
 import sparkAPI
-import _config
+import config
 
 
-configInfo = _config.ConfigInfo()
+configInfo = config.ConfigInfo()
 
 
 def gen_spark_params(model):

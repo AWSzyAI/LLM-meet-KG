@@ -1,0 +1,8 @@
+streamlit
+networkx
+pandas
+langchain
+zhipuai
+plotly
+spacy
+pyvis
