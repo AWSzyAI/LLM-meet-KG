@@ -10,3 +10,4 @@
 /_config.py
 
 /llm_meet_kg_app/__pycache__
+/llm_meet_kg_app/.env 
