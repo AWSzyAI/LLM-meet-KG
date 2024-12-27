@@ -1,22 +1,44 @@
-# 大模型与知识图谱（LLM meet KG）
-- 南京师范大学大学生创新训练计划项目：面向中小学科学教育大模型的领域知识增强方法研究与实现
-- 成员：szy dwj myx
+# 面向中小学科学教育大模型的领域知识增强方法研究与实现
 
-## [进度管理](https://awszyai.github.io/projects/LLM-meet-KG/LLM-meet-KG.html)
+## 项目背景
 
-## system branch
+随着生成式人工智能的快速发展，越来越多的场景可以使用生成式模型来解决一系列问题或者大幅提升效率。然而，由于当前大模型的训练语料库规模虽大，但垂直性较低，因此在解决特定领域的问题时依然显得能力不足。为了解决大语言模型的这一缺陷，可以引入知识图谱（KG）来丰富大模型的推理语料，进而增强大模型的能力。
 
-- in dwj's charge
-- aimed at developing a system to activate with users connected by LLM model powered of **knowlegde enhancement**
-- based on [**streamlit**](https://docs.streamlit.io/)
+## 项目简介
 
-## 2.0 
+本项目的 **理论指导** 依托于南京师范大学智能科学与教育研究院，在南京师范大学大学生创新训练计划中立项等级为 **省级**。项目名称为：面向中小学科学教育大模型的领域知识增强方法研究与实现。
 
-![alt text]({FF67CCF9-C359-43C5-B848-32DEEADD2071}.png)
-![alt text]({5E931ADB-DE2C-4A8B-ADAF-3703CBEC6D24}.png)
+本项目的 **训练数据** 依托于江苏凤凰教育出版社等权威语料库。通过构建完善的知识图谱、研发强大的检索引擎来提升大语言模型在中小学科学教育领域的垂直推理与应答能力。
 
-## 1.0
+本项目的 **项目成员** 如下：
+- 队长：南京师范大学 22 级本科生 时子延 :email: [szy@nnu.edu.cn](mailto:szy@nnu.edu.cn)
+- 成员：南京师范大学 22 级本科生 董文杰 :email: [explorer-dong@foxmail.com](mailto:explorer-dong@foxmail.com)
+- 成员：南京师范大学 22 级本科生 马艺轩
 
-<img src="https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721871.jpg" alt="询问中" />
+## 项目成果
 
-<img src="https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/202404161721507.jpg" alt="响应结果" />
+<details>
+<summary>v2.0前端展示</summary>
+
+构建知识图谱
+
+![构建知识图谱](./images/v2.0-构建知识图谱.png)
+
+检索增强结果
+
+![检索增强结果](./images/v2.0-检索增强结果.png)
+
+</details>
+
+<details>
+<summary>v1.0前端展示</summary>
+
+询问中
+
+![询问中](./images/v1.0-询问中.png)
+
+响应结果
+
+![响应结果](./images/v1.0-响应结果.png)
+
+</details>

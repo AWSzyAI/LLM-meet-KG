@@ -1,13 +1,12 @@
-# Env
-/.idea
+# OS Env
 .DS_Store
 
+# IDE
+.idea/
+
 # Python
-/.venv
-/__pycache__
+.venv/
+**/__pycache__/
 
 # Others
-/_config.py
-
-/llm_meet_kg_app/__pycache__
-/llm_meet_kg_app/.env 
+/*.env
