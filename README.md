@@ -13,7 +13,7 @@
 本项目的 **项目成员** 如下：
 - 队长：南京师范大学 22 级本科生 时子延 :email: [szy@nnu.edu.cn](mailto:szy@nnu.edu.cn)
 - 成员：南京师范大学 22 级本科生 董文杰 :email: [explorer-dong@foxmail.com](mailto:explorer-dong@foxmail.com)
-- 成员：南京师范大学 22 级本科生 马艺轩
+- 成员：南京师范大学 22 级本科生 马艺轩 
 
 ## 项目成果
 
